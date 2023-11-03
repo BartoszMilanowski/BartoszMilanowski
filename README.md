@@ -1,4 +1,3 @@
-Hi. My name is Bartosz Milanowski :)
-I'm finished Java Developer course in CodersLab, Warsaw PL and starting my adventure in IT. Just started JavaScript React at same school.
-Except that I' ve got Master degree in Virtual Environment Managment (final grade 5.0) and bachelor degree in Marketing (final grade 4.5) at Kozminski Univesity, Warsaw PL.
-It' s plessure to see You here.
+[PL] Nazywam się Bartosz Milanowski. Jestem absolwentem Zarządzania w Wirtualnym Środowisku (mgr, ocena 5.0) oraz Zarządzania, spec. Marketing (lic., ocena 4.5) w Akademii Leona Koźmińskiego. Ukończyłem kursy Java Developer oraz JavaScript Specialist w CodersLab. Interesuję się, przede wszystkim, tworzeniem stron WWW. Posługuję się HTML, CSS, JavaScript, React.js, SQL. Znam również podstawy PHP oraz Java. W tym momencie falgowym projektem portfolio jest repozytorium zatytułowane dogFarm (https://github.com/BartoszMilanowski/dogFarm).
+
+[EN] My name is Bartosz Milanowski. I hold a Master's degree in Management in a Virtual Environment (with a grade of 5.0) and a Bachelor's degree in Management with a specialization in Marketing (with a grade of 4.5) from the Leon Koźmiński Academy. I have completed Java Developer and JavaScript Specialist courses at CodersLab. My primary interest lies in web development, and I am proficient in HTML, CSS, JavaScript, React.js, and SQL. I also have a basic understanding of PHP and Java. My flagship portfolio project at the moment is a repository titled "dogFarm" (https://github.com/BartoszMilanowski/dogFarm).
